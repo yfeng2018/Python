@@ -8,3 +8,6 @@ def middle(word):
     return word[1:-1]
 
 print(last(" "))
+"""
+    matera
+"""
